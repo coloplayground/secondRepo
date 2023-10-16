@@ -1,1 +1,2 @@
-This is some content to mess up with later
+This is something overwriting the content
+New line via echo
